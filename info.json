@@ -8,7 +8,8 @@
 	"package": {
 		"sync_portal_details": true,
 		"gallery": [
-			"gallery/image.png"
+			"gallery/assembling.png",
+			"gallery/science.png"
 		],
 		"ignore": [
 			"gallery/**",
