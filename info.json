@@ -11,7 +11,9 @@
 			"gallery/image.png"
 		],
 		"ignore": [
-			"gallery/**"
+			"gallery/**",
+			"*.svg",
+			"*.xcf"
 		]
 	}
 }
