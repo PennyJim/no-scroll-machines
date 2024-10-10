@@ -2,7 +2,7 @@
 	"name": "no-scroll-machines",
 	"title": "No Scroll Machines",
 	"description": "Removes vertical constraints causing scroll bars in machine interfaces. Let all your science be visible!",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "PennyJim",
 	"factorio_version": "1.1",
 	"package": {
