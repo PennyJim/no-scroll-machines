@@ -4,5 +4,14 @@
 	"description": "Removes vertical constraints causing scroll bars in machine interfaces. Let all your science be visible!",
 	"version": "1.0.0",
 	"author": "PennyJim",
-	"factorio_version": "1.1"
+	"factorio_version": "1.1",
+	"package": {
+		"sync_portal_details": true,
+		"gallery": [
+			"gallery/image.png"
+		],
+		"ignore": [
+			"gallery/**"
+		]
+	}
 }
